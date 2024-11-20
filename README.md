@@ -1,0 +1,2 @@
+# bLog
+Simple Logging Solution
